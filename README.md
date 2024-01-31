@@ -6,7 +6,7 @@ This a GUI app to download YouTube video by entering the video link.
 
 - **Prerequisites:** Install **pytube** and **customtkinter**.
 - Run the code: `python main.py`
-- Or run here: https://replit.com/@soeweiyanphyo/Youtube-Downloader-GUI
+- Or run here: [https://replit.com/@soeweiyanphyo/Youtube-Downloader-GUI]
 
 ### Features:
 
