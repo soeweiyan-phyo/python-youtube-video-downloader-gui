@@ -9,6 +9,12 @@ This a GUI app to download YouTube video by entering the video link.
 - **Language:** Python
 - **Libraries:** pytube | tkinter | customtkinter
 
+### Features
+
+- GUI
+- Download video
+- Progress percentage and bar
+
 ## Getting Started
 
 ### Prerequisites
@@ -42,12 +48,6 @@ This a GUI app to download YouTube video by entering the video link.
 - Or run it at [Replit](https://replit.com/@soeweiyanphyo/Youtube-Downloader-GUI)
 - Copy and paste YouTube video URL
 - Click download button
-
-## Features
-
-- GUI
-- Download video
-- Progress percentage and bar
 
 ## Acknowledgments
 
